@@ -1,0 +1,1 @@
+![image alt](https://github.com/Lucifer1406/Interactive-Dashboard-Using-PowerBI/blob/1306b973688007941b1c800fe7cca02ee0200ee1/AirBnb%20Dashboard%20Using%20Power%20BI/Screenshot%202025-05-19%20062156.png)
